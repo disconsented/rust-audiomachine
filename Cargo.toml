@@ -1,0 +1,8 @@
+[package]
+name = "discord-audiomachine"
+version = "0.0.1"
+authors = [ "James Kerr <jpm.kerr@outlook.com>" ]
+
+[dependencies]
+env_logger = "0.3.4"
+discord = "0.6.0"
